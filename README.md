@@ -47,6 +47,8 @@ If you'd to like learn more about how we crafted the layout and various interfac
 - [Button animations](https://github.com/Matdweb/Jamming/pull/29)
 - [Error page](https://github.com/Matdweb/Jamming/pull/34)
 
+Learn also about the way we create commits here [`convencional-commits`](https://www.conventionalcommits.org/es/v1.0.0-beta.2/)
+
 ### Experimental code
 Before the development process began, three GitHub repositories were set up to contain experimental code for testing the functionalities of this app. Exploring these repositories can be highly beneficial if you wish to gain a deeper understanding of the API requests, Next.js best practices, Next.js endpoints, and other elements used in this application: 
 - [Spotify Playlist Retriever v12](https://github.com/Matdweb/Spotiy-Playlist-Retriever-v12)
