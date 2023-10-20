@@ -55,6 +55,43 @@ Before the development process began, three GitHub repositories were set up to c
 - [Spotify Playlist Retriever](https://github.com/Matdweb/Spotiy-Playlist-Retriever)
 - [Album Searcher](https://github.com/Matdweb/AlbumSearcher-experimental)
 
+## How to Contribute to Jamming
+
+Thank you for showing interest in contributing to our Jamming project! Your help is greatly appreciated. To get started, please follow these steps:
+
+1. **Find a Task:** Browse our project's issues and identify a task you'd like to work on. This helps maintain a clear and organized development process.
+
+2. **Express Your Interest:** Leave a comment on the chosen task with your name and a clear statement indicating your intent to contribute. This helps us track who's working on what.
+
+3. **Task Assignment:** The first contributor to express interest in a task will be assigned to it, provided they confirm their readiness within 24 hours. This ensures efficient task allocation.
+
+4. **Single Contributor per Task:** To ensure focused development, only one contributor may work on a task at a time. However, we welcome feedback and suggestions from everyone.
+
+5. **Time Commitment:** Once a task is assigned to you, coordinate a suitable development timeline with the project's owner or lead developer. Please honor this commitment, as other contributors and project timelines depend on it.
+
+6. **Code Review:** Prior to merging any code, the project owner or lead developer will review your changes to ensure alignment with project standards and objectives.
+
+In cases where you need guidance, don't hesitate to ask for help or refer to relevant resources.
+
+By following these steps and communicating clearly, you can make valuable contributions to our project while keeping the development process organized and collaborative. Happy coding! 👨🏻‍💻
+
+## Showcase Your Contributions to Jamming
+
+We encourage contributors to feature their Jamming project contributions in their portfolios and resumes. This helps you demonstrate your skills and experience to potential employers or collaborators. Here's how:
+
+1. **List Your Contributions:** In your portfolio, create a section for your Jamming project contributions. Provide a brief description of each contribution and its impact.
+
+2. **Link to the Repository:** Include a direct link to the Jamming repository, allowing others to explore your code and the overall project.
+
+3. **Highlight Achievements:** Spotlight specific challenges you tackled, improvements you made, or unique solutions you implemented.
+
+4. **Share Your Experience:** Discuss the valuable experience you gained while working on the project, including collaboration with the development team, adherence to coding standards, and real-world problem-solving.
+
+5. **Connect with Us:** Let us know when you've added your Jamming contributions to your portfolio. We'd love to celebrate your success and promote your work within our community.
+
+Your contributions are a testament to your skills and dedication. We're thrilled to have you as part of our project. Share your portfolio with us, and let's continue to grow and learn together! 🚀
+
+
 ## How to use this app
 See the step by step to how to create a playlist with this app:
 1. Sign In with your Spotify account <br />
